@@ -31,7 +31,7 @@ Note that some info may be wrong or incorrect since I am still exploring this do
 
 As I've seen so far, this is very important.
 
-I've neglicted taking real notes of what I am trying to exploit, remarks, fails etc..
+I've neglected taking real notes of what I am trying to exploit, remarks, fails etc..
 
 I am using Obsidian for note taking as I find it gives you to ability to organize notes of different programs quite easily.
 
