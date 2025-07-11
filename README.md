@@ -15,7 +15,7 @@ Note that some info may be wrong or incorrect since I am still exploring this do
 - - -
 
 ## Avoid
-* Exhausting yourself with AI. Yes AI is OP to generate payloads and check things quick but it shouldn't replace you. I found that if I relied on it too much, I got exhausted quickly as everything it said wasn't applicable.
+* Exhausting yourself with AI. Yes AI is OP to generate payloads and check things quickly but it shouldn't replace you. I found that if I relied on it too much, I quickly got exhausted as everything it said wasn't applicable.
 * Relying solely on automatic tools.
 * Not giving any POC when writing a report.
 
@@ -25,11 +25,11 @@ Note that some info may be wrong or incorrect since I am still exploring this do
 * Be very patient
 * Take breaks
 * Switch programs if you feel that you ran out of ideas on the program you're currently working on. You can comeback to that program next time.
-* **Take notes of what could be vulnerable**
+* **Take notes**
 
 ### Taking notes
 
-As I've seen so far, this is very important.
+From what I've experienced so far, this is very important.
 
 I've neglected taking real notes of what I am trying to exploit, remarks, fails etc..
 
