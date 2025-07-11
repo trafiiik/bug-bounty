@@ -4,7 +4,7 @@ This is my personnal bug bounty repo where I put the tools I use and methodologi
 
 It's also where I put my personnal experience with bug bounties. With what I struggled and what I found interesting.
 
-Note that some info may be wrong or incorrect since I am still exploring this domain.
+Note that some info may be wrong or incorrect since I am still new to this.
 
 - - -
 
@@ -33,7 +33,7 @@ From what I've experienced so far, this is very important.
 
 I've neglected taking real notes of what I am trying to exploit, remarks, fails etc..
 
-I am using Obsidian for note taking as I find it gives you to ability to organize notes of different programs quite easily.
+I am using Obsidian for note taking as I find it gives you the ability to organize notes of different programs quite easily.
 
 Taking notes also helps you process what you've done, what worked and what didn't so it can greatly help you find a bug and it gets you unstuck.
 
